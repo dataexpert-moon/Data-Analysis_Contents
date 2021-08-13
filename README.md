@@ -1,5 +1,5 @@
 # Data-Analysis 
- I reviewed data analysis at "이수안컴퓨터연구소" lecture.
+ I reviewed and studied data analysis at "이수안컴퓨터연구소" lecture.
 - website: https://www.youtube.com/channel/UCFfALXX0DOx7zv6VeR5U_Bg
 ## First - Learning Numpy 
 * study period: 2021.07.26 ~ 2021.08.02
