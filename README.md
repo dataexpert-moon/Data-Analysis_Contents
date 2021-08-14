@@ -7,7 +7,7 @@
 * Numpy original text: https://colab.research.google.com/drive/1qEBbLwNJ0FZA6h1BWHm5wu4mrJhbg3ty?usp=sharing
 
 ## Second - Learning Pandas
-* study period: 2021.08.03 ~ 
+* study period: 2021.08.03 ~ 2021.08.14
 * Lecture website: https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=10
 * Pandas original text: https://colab.research.google.com/drive/1nt8EA_2tC3DjAoUcqm89xy0RyF5qBL_y?usp=sharing
 
