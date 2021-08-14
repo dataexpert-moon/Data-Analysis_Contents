@@ -1,7 +1,7 @@
 # Data-Analysis 
  I reviewed 'Data Analysis' by typing myself at "이수안컴퓨터연구소" lecture.
 - website: https://www.youtube.com/channel/UCFfALXX0DOx7zv6VeR5U_Bg
-- 
+
 ## First - Learning Numpy 
 * study period: 2021.07.26 ~ 2021.08.02
 * Lecture website: https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=9
@@ -16,6 +16,5 @@
 #### Who survived the Titanic?
 * study period: 2021.08.15 ~ 
 * Lecture website: https://www.youtube.com/watch?v=wBQnyesc9bU&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=11
-*
 
 
