@@ -12,7 +12,7 @@
 * Lecture website: https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=10
 * Pandas original text: https://colab.research.google.com/drive/1nt8EA_2tC3DjAoUcqm89xy0RyF5qBL_y?usp=sharing
 
-## Titanic Data Analysis & Visualization (using Pandas & Seaborn)
+## "Titanic" Data Analysis & Visualization (using Pandas & Seaborn)
 #### Who survived the Titanic?
 * study period: 2021.08.15 ~ 
 * Lecture website: https://www.youtube.com/watch?v=wBQnyesc9bU&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=11
