@@ -65,19 +65,19 @@
 * 질적 연구 질문은 직접적이지 않고 본질적으로 훨씬 모호
 
   * 질적 질문 유형 종류:
-    * 탐색적 질문(Exploratory Questions): 정량적 연구의 서술형 문제와 유사하게, 선입견으로 결과에 영향을 주지 않고, 무언가를 이해하는 것으로 보임 ex) 제품이 어떻게 사용되는지, 특정 주제에 대한 인식을 묻는 것은 두 가지 유형의 탐색적 질문
-    * 예측 질문(Predictive Questions): 이러한 질문들은 주제나 행동을 둘러싼 의도나 미래의 결과를 이해하려고 함 ex) 소비자가 왜 특정한 상황에서 행동하는지, 어떤 상황이 발생한다면 어떻게 느끼는지 묻는 것
-    * 해석적 질문(Interpretive Questions): 결과에 영향을 주지 않고 특정 주제 또는 개념에 대한 피드백 수집 ex) 새로운 제품 개념을 테스트하고 전달 요청이 어떻게 해석되는지 이해하는 것
+    * **탐색적 질문(Exploratory Questions)**: 정량적 연구의 서술형 문제와 유사하게, 선입견으로 결과에 영향을 주지 않고, 무언가를 이해하는 것으로 보임 ex) 제품이 어떻게 사용되는지, 특정 주제에 대한 인식을 묻는 것은 두 가지 유형의 탐색적 질문
+    * **예측 질문(Predictive Questions)**: 이러한 질문들은 주제나 행동을 둘러싼 의도나 미래의 결과를 이해하려고 함 ex) 소비자가 왜 특정한 상황에서 행동하는지, 어떤 상황이 발생한다면 어떻게 느끼는지 묻는 것
+    * **해석적 질문(Interpretive Questions)**: 결과에 영향을 주지 않고 특정 주제 또는 개념에 대한 피드백 수집 ex) 새로운 제품 개념을 테스트하고 전달 요청이 어떻게 해석되는지 이해하는 것
 
 ### 이상값 발견 기법
 ---
-* 개별 데이터 관찰: 데이터 값을 눈으로 보며 전체적인 추세와 특이사항 관찰
-* 통계값 활용: 요약 통계 지표(summary statistics)
-* 시각화 활용: 확률 밀도 함수, 히스토그램, 점 플롯(dot plot), 워드 클라우드, 시계열 차트, 지도 등
-* 머신러닝 기법 활용: 클러스터링(Clustering) 등을 통해서 이상치 확인
-* 통계 기반 탐지(Statistical-based Direction): Distribution-based, Depth-based
-* 편차 기반 방법(Deviation-based Method): Sequential exception, OLAP data cube
-* 거리 기반 탐지(Distance-based Direction): Index-based, Nested-Loop, Cell-based, Local-outliers, Partition-based
+* **개별 데이터 관찰**: 데이터 값을 눈으로 보며 전체적인 추세와 특이사항 관찰
+* **통계값 활용**: 요약 통계 지표(summary statistics)
+* **시각화 활용**: 확률 밀도 함수, 히스토그램, 점 플롯(dot plot), 워드 클라우드, 시계열 차트, 지도 등
+* **머신러닝 기법 활용**: 클러스터링(Clustering) 등을 통해서 이상치 확인
+* **통계 기반 탐지(Statistical-based Direction)**: Distribution-based, Depth-based
+* **편차 기반 방법(Deviation-based Method)**: Sequential exception, OLAP data cube
+* **거리 기반 탐지(Distance-based Direction)**: Index-based, Nested-Loop, Cell-based, Local-outliers, Partition-based
 
 ### 5가지 숫자 요약(Five-number summary)
 ---
@@ -121,9 +121,9 @@
    
 ### 속성 간의 데이터 조합
 ---
-* **Categorical - Categorical**: 교차 테이블로 요약통계 사용, 모자이크 플롯으로 시각화 
-* **Numeric - Categorical**: 카테고리별 통계 값으로 요약통계 사용, 박스 플롯으로 시각화
-* **Numeric - Numeric**: 상관계수로 요약통계 사용, 산점도로 시각화
+* **Categorical - Categorical**: **교차 테이블**로 요약통계 사용, **모자이크 플롯**으로 시각화 
+* **Numeric - Categorical**: **카테고리별 통계 값**으로 요약통계 사용, **박스 플롯**으로 시각화
+* **Numeric - Numeric**: **상관계수**로 요약통계 사용, **산점도**로 시각화
 
 
 
