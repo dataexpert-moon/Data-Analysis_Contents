@@ -88,8 +88,7 @@
   * 하위 사분위수(lower quartile) 또는 제1사분위수(Q1): 중앙값 기준으로 하위 50% 중의 중앙값, 전체 데이터 중 하위 25%에 해당하는 값
   * 최소값(minimum)
 
-
-<img src="https://ko.wikipedia.org/wiki/%EC%83%81%EC%9E%90_%EC%88%98%EC%97%BC_%EA%B7%B8%EB%A6%BC#/media/%ED%8C%8C%EC%9D%BC:Michelsonmorley-boxplot.svg" width="450px" height="300px"></img>
+<img src="https://en.wikipedia.org/wiki/Box_plot#/media/File:Michelsonmorley-boxplot.svg" width="450px" height="600px"></img>
 
 
 
