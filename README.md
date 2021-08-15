@@ -23,3 +23,10 @@
 * study period: 2021.08.15
 * Lecture website: https://www.youtube.com/watch?v=0eCbAYX-_UQ&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1
 
+
+
+
+
+
+
+
