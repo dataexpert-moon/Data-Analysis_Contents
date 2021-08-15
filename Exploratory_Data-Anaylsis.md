@@ -13,7 +13,7 @@
 
 ### 탐색적 데이터 분석(EDA) 필요성
 ---
-* 데이터의 분포 및 값을 검토함으로써 데이터가 표현하는 현상을 더 잘 이해하고, 데이터에 대한 잠재적인 문제 발견
+* **데이터의 분포 및 값을 검토**함으로써 데이터가 표현하는 현상을 더 잘 이해하고, 데이터에 대한 잠재적인 문제 발견
 * 본격적인 분석에 들어가기 앞서 데이터를 다시 수집하거나 추가로 수집하는 등의 결정을 내릴 수 있음
 
 
@@ -79,6 +79,17 @@
 * 편차 기반 방법(Deviation-based Method): Sequential exception, OLAP data cube
 * 거리 기반 탐지(Distance-based Direction): Index-based, Nested-Loop, Cell-based, Local-outliers, Partition-based
 
+### 5가지 숫자 요약(Five-number summary)
+---
+* 데이터 집합에 대한 정보를 제공하는 통계량으로 가장 중요한 표본 백분위수 5가지로 구성
+  * 최대값(maximum)
+  * 상위 사분위수(upper quartile) 또는 제3사분위수(Q3): 중앙값 기준으로 상위 50% 중의 중앙값, 전체 데이터 중 상위 25%에 해당하는 값
+  * 중앙값(median): 데이터의 가운데 순위에 해당하는 값
+  * 하위 사분위수(lower quartile) 또는 제1사분위수(Q1): 중앙값 기준으로 하위 50% 중의 중앙값, 전체 데이터 중 하위 25%에 해당하는 값
+  * 최소값(minimum)
+
+
+<img src="https://ko.wikipedia.org/wiki/%EC%83%81%EC%9E%90_%EC%88%98%EC%97%BC_%EA%B7%B8%EB%A6%BC#/media/%ED%8C%8C%EC%9D%BC:Michelsonmorley-boxplot.svg" width="450px" height="300px"></img>
 
 
 
