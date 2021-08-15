@@ -92,6 +92,13 @@
 
 ##### 출처: https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
 
+### 기술통계학(Descriptive Statistics)
+---
+
+![asdoc-summary-statistic-in-Word-RTF-from-Stata](https://user-images.githubusercontent.com/81904802/129470668-22102048-43eb-4da2-a683-237695fb5611.png)
+
+##### 출처: https://fintechprofessor.com/asdoc-creating-high-quality-tables-summary-statistics-st/
+
 
 
 
