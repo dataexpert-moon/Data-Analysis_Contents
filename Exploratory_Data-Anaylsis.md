@@ -1,6 +1,7 @@
 # 탐색적 데이터 분석
 
-### 탐색적 데이터 분석 정의
+### 탐색적 데이터 분석(EDA) 정의
+---
 * 탐색적 데이터 분석(EDA: Exploratory Data Analysis): 존 튜키라는 미국의 저명한 통계학자가 창안한 데이터 분석 방법론
 
 * 기존의 통계학이 정보의 추출에서 가설 검정 등에 치우쳐 자료가 가지고 있는 본연의 의미를 찾는데 어려움이 있어
@@ -8,7 +9,7 @@
   
 * 존 튜키: _"탐색적 데이터 분석은 우리가 존재한다고 믿는 것들은 물론이고 존재하지 않는다고 믿는 것들을 발견하려는 태도, 유연성, 그리고 자발성이다."_
 
-![EDA](.https://upload.wikimedia.org/wikipedia/commons/b/ba/Data_visualization_process_v1.png)
+![EDA](https://upload.wikimedia.org/wikipedia/commons/b/ba/Data_visualization_process_v1.png)
 
 
 
