@@ -81,26 +81,49 @@
 
 ### 5가지 숫자 요약(Five-number summary)
 ---
-* 데이터 집합에 대한 정보를 제공하는 통계량으로 가장 중요한 표본 백분위수 5가지로 구성
-  * 최대값(maximum)
-  * 상위 사분위수(upper quartile) 또는 제3사분위수(Q3): 중앙값 기준으로 상위 50% 중의 중앙값, 전체 데이터 중 상위 25%에 해당하는 값
-  * 중앙값(median): 데이터의 가운데 순위에 해당하는 값
-  * 하위 사분위수(lower quartile) 또는 제1사분위수(Q1): 중앙값 기준으로 하위 50% 중의 중앙값, 전체 데이터 중 하위 25%에 해당하는 값
-  * 최소값(minimum)
+* **데이터 집합에 대한 정보를 제공하는 통계량**으로 가장 중요한 표본 백분위수 5가지로 구성
+  * **최대값(maximum)**
+  * **상위 사분위수(upper quartile)** 또는 **제3사분위수(Q3)**: 중앙값 기준으로 상위 50% 중의 중앙값, 전체 데이터 중 상위 25%에 해당하는 값
+  * **중앙값(median)**: 데이터의 가운데 순위에 해당하는 값
+  * **하위 사분위수(lower quartile)** 또는 **제1사분위수(Q1)**: 중앙값 기준으로 하위 50% 중의 중앙값, 전체 데이터 중 하위 25%에 해당하는 값
+  * **최소값(minimum)**
 
 ![1_2c21SkzJMf3frPXPAR_gZA](https://user-images.githubusercontent.com/81904802/129470313-8470ac12-90b5-493d-9bbc-4ee7e1df0916.png)
 
+
 ##### 출처: https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
+
+
 
 ### 기술통계학(Descriptive Statistics)
 ---
 
 ![asdoc-summary-statistic-in-Word-RTF-from-Stata](https://user-images.githubusercontent.com/81904802/129470668-22102048-43eb-4da2-a683-237695fb5611.png)
 
+
 ##### 출처: https://fintechprofessor.com/asdoc-creating-high-quality-tables-summary-statistics-st/
 
 
 
+### 속성 간의 관계 분석
+---
+* **Categorical Variable(Qualitative) - 범주형 변수**
+  * **Nominal Data(명목자료)**
+    * 원칙적으로 숫자로 표시할 수 없으나, 편의상 숫자화 (순위의 개념이 없음) ex) 남자-0, 여자-1
+  * **Ordinal Data(순서자료)**
+    * 원칙적으로 숫자로 표시할 수 없으나, 편의상 숫자화 (순위의 개념이 있음) ex) 소득분위 10분위 > 9분위 > 8분위
+
+* **Numeric Variable(Quantitative) - 양적 변수**
+  * **Continuous Data(연속형자료)**
+    * 데이터가 연속량으로서 셀 수 있는 형태 ex) 키 - 166.1cm
+  * **Discrete Data(이산형자료)**
+    * 데이터가 비연속량으로서 셀 수 있는 형태 ex) 자식 수 5명
+   
+### 속성 간의 데이터 조합
+---
+* **Categorical - Categorical**: 교차 테이블로 요약통계 사용, 모자이크 플롯으로 시각화 
+* **Numeric - Categorical**: 카테고리별 통계 값으로 요약통계 사용, 박스 플롯으로 시각화
+* **Numeric - Numeric**: 상관계수로 요약통계 사용, 산점도로 시각화
 
 
 
