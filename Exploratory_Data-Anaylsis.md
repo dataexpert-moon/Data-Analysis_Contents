@@ -95,6 +95,10 @@
 
 
 
+
+
+
+
 ### 기술통계학(Descriptive Statistics)
 ---
 
@@ -102,6 +106,10 @@
 
 
 ##### 출처: https://fintechprofessor.com/asdoc-creating-high-quality-tables-summary-statistics-st/
+
+
+
+
 
 
 
