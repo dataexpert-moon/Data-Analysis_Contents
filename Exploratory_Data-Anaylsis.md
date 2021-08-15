@@ -88,7 +88,7 @@
   * 하위 사분위수(lower quartile) 또는 제1사분위수(Q1): 중앙값 기준으로 하위 50% 중의 중앙값, 전체 데이터 중 하위 25%에 해당하는 값
   * 최소값(minimum)
 
-
+![1_2c21SkzJMf3frPXPAR_gZA](https://user-images.githubusercontent.com/81904802/129470313-8470ac12-90b5-493d-9bbc-4ee7e1df0916.png)
 
 
 
