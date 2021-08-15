@@ -14,7 +14,10 @@
 
 ## "Titanic" Data Analysis & Visualization (using Pandas & Seaborn)
 #### Who survived the Titanic?
-* study period: 2021.08.15 ~ 
+* study period: 2021.08.15
 * Lecture website: https://www.youtube.com/watch?v=wBQnyesc9bU&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=11
 
+## Exploratory Data Analysis
+* study period: 2021.08.15 ~
+* Lecture website: https://www.youtube.com/watch?v=0eCbAYX-_UQ&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=1
 
