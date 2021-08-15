@@ -8,7 +8,7 @@
   
 * 존 튜키: _"탐색적 데이터 분석은 우리가 존재한다고 믿는 것들은 물론이고 존재하지 않는다고 믿는 것들을 발견하려는 태도, 유연성, 그리고 자발성이다."_
 
-
+![EDA](.https://upload.wikimedia.org/wikipedia/commons/b/ba/Data_visualization_process_v1.png)
 
 
 
