@@ -1,6 +1,6 @@
 # Data Analysis_Contents 
  * I reviewed 'Data Analysis' by typing myself at "이수안컴퓨터연구소" lecture.
- * All code and text are copyrighted by "이수안컴퓨터연구소.
+ * All code and text are copyrighted by "이수안컴퓨터연구소".
  
 - website: https://www.youtube.com/channel/UCFfALXX0DOx7zv6VeR5U_Bg
 
